@@ -1,16 +1,107 @@
-### Hi there 👋
+## Hi there! I'm Andrey Artemov 👋
 
-<!--
-**limona77/limona77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student from **[RTU MIREA](https://www.mirea.ru/)** 🔥
 
-Here are some ideas to get you started:
+I'm enjoy frontend and backend development 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+
+> Backend
+<table  style="width: 100%">
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=go" width="70" />
+        </a>
+      <br>Go
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="70" />
+        </a>
+      <br>Postgresql
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="70" />
+        </a>
+      <br>Mongodb
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postman" width="70" />
+        </a>
+      <br>Postman
+    </td>
+</table>
+
+> Frontend
+<table  style="width: 100%">
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react" width="70" />
+        </a>
+      <br>React
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=redux" width="70" />
+        </a>
+      <br>Redux
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts" width="70" />
+        </a>
+      <br>TS
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js" width="70" />
+        </a>
+      <br>JS
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=yarn" width="70" />
+        </a>
+      <br>Yarn
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vite" width="70" />
+        </a>
+      <br>Vite
+    </td>
+    
+
+    
+</table>
+
+
+> common
+<table  style="width: 100%">
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker" width="70" />
+        </a>
+      <br>Docker
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git" width="70" />
+        </a>
+      <br>git
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github" width="70" />
+        </a>
+      <br>github
+    </td>
+</table>
+
+
+## 📱 Contact
+-   **[Telegram](https://t.me/Whoops0_o)**
