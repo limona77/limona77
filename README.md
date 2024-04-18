@@ -24,12 +24,6 @@ I'm enjoy frontend and backend development 💻
     </td>
     <td align="center" width="130" height="90">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
-        </a>
-      <br>Mongodb
-    </td>
-    <td align="center" width="130" height="90">
-      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=postman" width="50" />
         </a>
       <br>Postman
@@ -43,12 +37,6 @@ I'm enjoy frontend and backend development 💻
         <img src="https://skillicons.dev/icons?i=react" width="50" />
         </a>
       <br>React
-    </td>
-    <td align="center" width="130" height="90">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=redux" width="50" />
-        </a>
-      <br>Redux
     </td>
     <td align="center" width="130" height="90">
       <a href="https://skillicons.dev">
@@ -68,14 +56,6 @@ I'm enjoy frontend and backend development 💻
         </a>
       <br>Yarn
     </td>
-    <td align="center" width="130" height="90">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vite" width="50" />
-        </a>
-      <br>Vite
-    </td>
-    
-
     
 </table>
 
