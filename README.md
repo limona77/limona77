@@ -48,12 +48,6 @@ I'm enjoy backend and frontend development 💻
         </a>
       <br>JS
     </td>
-    <td align="center" width="130" height="90">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=yarn" width="50" />
-        </a>
-      <br>Yarn
-    </td>
     
 </table>
 
